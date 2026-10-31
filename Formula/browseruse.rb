@@ -14,18 +14,18 @@ class Browseruse < Formula
   on_macos do
     on_arm do
       url "https://github.com/chavisnguyen/1craft-browseruse/releases/download/v1.2.1/1craft-browseruse-darwin-arm64.tar.gz"
-      sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+      sha256 "282434b6f22c17e04a0b7a9d96c60f573a2e076c7de29ddde5504e9f42777ad2"
     end
     on_intel do
       url "https://github.com/chavisnguyen/1craft-browseruse/releases/download/v1.2.1/1craft-browseruse-darwin-amd64.tar.gz"
-      sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+      sha256 "12f8cb11dcc6f0980f5ec7e740bde438dd4f2c3b7ef2e51805948bd6db8d728d"
     end
   end
 
   on_linux do
     on_intel do
       url "https://github.com/chavisnguyen/1craft-browseruse/releases/download/v1.2.1/1craft-browseruse-linux-amd64.tar.gz"
-      sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+      sha256 "61b910fafbe375a7bdd828ab7890696422898bf496fba682a37eae44a10cdbcd"
     end
   end
 
