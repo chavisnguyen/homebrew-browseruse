@@ -13,19 +13,19 @@ class Browseruse < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/chavisnguyen/1craft-browseruse/releases/download/v1.2.1/1craft-browseruse-darwin-arm64.tar.gz"
-      sha256 "282434b6f22c17e04a0b7a9d96c60f573a2e076c7de29ddde5504e9f42777ad2"
+      url "https://github.com/chavisnguyen/1craft-browseruse/releases/download/v1.2.2/1craft-browseruse-darwin-arm64.tar.gz"
+      sha256 "09f0265e6d9b0ab71abdd1ceb6f362ef109f67edd1743886b966d467b2d38485"
     end
     on_intel do
-      url "https://github.com/chavisnguyen/1craft-browseruse/releases/download/v1.2.1/1craft-browseruse-darwin-amd64.tar.gz"
-      sha256 "12f8cb11dcc6f0980f5ec7e740bde438dd4f2c3b7ef2e51805948bd6db8d728d"
+      url "https://github.com/chavisnguyen/1craft-browseruse/releases/download/v1.2.2/1craft-browseruse-darwin-amd64.tar.gz"
+      sha256 "df486b79e080bcd703283e754f46dfc4ccaddba69864c94d7e9c3db936ba5f2b"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/chavisnguyen/1craft-browseruse/releases/download/v1.2.1/1craft-browseruse-linux-amd64.tar.gz"
-      sha256 "61b910fafbe375a7bdd828ab7890696422898bf496fba682a37eae44a10cdbcd"
+      url "https://github.com/chavisnguyen/1craft-browseruse/releases/download/v1.2.2/1craft-browseruse-linux-amd64.tar.gz"
+      sha256 "cad4b06baf784aaaec35784563c467fd93b7565c670074cf919147a4eb8a1bb2"
     end
   end
 
